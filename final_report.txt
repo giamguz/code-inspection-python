@@ -1,0 +1,13 @@
+************* Module main
+main.py:7:4: C0103: Constant name "user_name" doesn't conform to UPPER_CASE naming style (invalid-name)
+************* Module utils
+utils.py:4:0: C0305: Trailing newlines (trailing-newlines)
+utils.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+************* Module math_utils
+math_utils.py:4:0: C0304: Final newline missing (missing-final-newline)
+math_utils.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+math_utils.py:1:0: C0116: Missing function or method docstring (missing-function-docstring)
+
+------------------------------------------------------------------
+Your code has been rated at 5.38/10 (previous run: 3.85/10, +1.54)
+
