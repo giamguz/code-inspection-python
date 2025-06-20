@@ -1,3 +1,5 @@
+"""Main module that greets a user and performs a division."""
+
 from utils import greet_user
 from math_utils import divide
 

@@ -1,0 +1,15 @@
+************* Module main
+main.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+main.py:5:4: C0103: Constant name "name" doesn't conform to UPPER_CASE naming style (invalid-name)
+main.py:8:4: C0103: Constant name "result" doesn't conform to UPPER_CASE naming style (invalid-name)
+************* Module utils
+utils.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+utils.py:1:0: C0116: Missing function or method docstring (missing-function-docstring)
+utils.py:4:0: C0116: Missing function or method docstring (missing-function-docstring)
+************* Module math_utils
+math_utils.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+math_utils.py:1:0: C0116: Missing function or method docstring (missing-function-docstring)
+
+-----------------------------------
+Your code has been rated at 3.85/10
+
