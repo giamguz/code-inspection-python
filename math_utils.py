@@ -1,2 +1,4 @@
 def divide(a, b):
-    return a / b  # Possible ZeroDivisionError
+    if b == 0:
+        return "Error: Division by zero is not allowed"
+    return a / b  
