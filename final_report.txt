@@ -4,5 +4,5 @@ main.py:7:4: C0103: Constant name "user_name" doesn't conform to UPPER_CASE nami
 math_utils.py:7:16: C0303: Trailing whitespace (trailing-whitespace)
 
 ------------------------------------------------------------------
-Your code has been rated at 8.46/10 (previous run: 3.85/10, +4.64)
+Your code has been rated at 8.46/10 (previous run: 3.85/10, +4.61)
 
