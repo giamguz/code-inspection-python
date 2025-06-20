@@ -1,3 +1,4 @@
 def greet_user(name):
-    print("Hello", name)
+    """Print a greeting to the user by name."""
+    print(f"Hello {name}")
 
